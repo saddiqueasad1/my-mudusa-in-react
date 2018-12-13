@@ -1,0 +1,27 @@
+.MYrow {
+  padding: 1%;
+  height: auto;
+  background-color: orange;
+  text-align: center;
+}
+.MYrow1 {
+  padding: 1%;
+  height: auto;
+
+  text-align: center;
+}
+.p1 {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.button1 {
+  background-color: rgb(116, 112, 112);
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button1:hover {
+  background-color: #555555;
+  color: white;
+}
